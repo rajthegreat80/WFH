@@ -109,6 +109,11 @@ def everyone():
 	emailid.extend(fileHandle.read().splitlines())
 	for email in emailid:
 		SendMessage(Subject,Message,email)
+def peer():
+	fileHandle = open("peer.txt")
+	emailid = fileHandle.read().splitlines()
+	for email in emailid:
+		SendMessage(Subject,Message,email)
 
 
 def main():
@@ -117,7 +122,7 @@ def main():
 	else:
 		if sys.argv[1]=="manager":
 			manager()
-		else:
+		else if sys.argv[1]=="peer":
 			everyone()	
 
 if __name__ == "__main__":
