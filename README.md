@@ -16,7 +16,7 @@ Be sure that you have installed these python library:-
   
   *mimetypes
 
-Goto your google api 
+Goto your google api:- 
   *Create project
   *Get the application name and set it in wfh.py
   *Download json file for credentials and rename it as client_secret.json and put it in directory.
