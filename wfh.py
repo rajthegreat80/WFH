@@ -123,7 +123,7 @@ def main():
 		if sys.argv[1]=="manager":
 			manager()
 		else if sys.argv[1]=="peer":
-			everyone()	
+			peer()	
 
 if __name__ == "__main__":
 	main()
