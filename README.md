@@ -21,10 +21,10 @@ Goto your google api:- <br/>
   *Get the application name and set it in wfh.py<br/>
   *Download json file for credentials and rename it as client_secret.json and put it in directory.<br/>
 
-Finally ,
-  TO SEND WFH TO BOTH MANAGER and PEERS
-          python wfh.py
-  TO SEND WFH TO MANAGER ONLY
-          python wfh.py manager
-  TO SEND WFH TO PEERS ONLY
-          python wfh.py peer
+Finally ,<br/>
+  TO SEND WFH TO BOTH MANAGER and PEERS<br/>
+          python wfh.py<br/>
+  TO SEND WFH TO MANAGER ONLY<br/>
+          python wfh.py manager<br/>
+  TO SEND WFH TO PEERS ONLY<br/>
+          python wfh.py peer<br/>
