@@ -16,10 +16,10 @@ Be sure that you have installed these python library:-
   
   *mimetypes
 
-Goto your google api:- 
-  *Create project
-  *Get the application name and set it in wfh.py
-  *Download json file for credentials and rename it as client_secret.json and put it in directory.
+Goto your google api:- <br/>
+  *Create project<br/>
+  *Get the application name and set it in wfh.py<br/>
+  *Download json file for credentials and rename it as client_secret.json and put it in directory.<br/>
 
 Finally ,
   TO SEND WFH TO BOTH MANAGER and PEERS
